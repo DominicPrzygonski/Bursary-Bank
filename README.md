@@ -4,6 +4,8 @@
 A website created to help current and prospective CPUT students aquire funding for 
 their tertiary education.
 
+https://dominicprzygonski.github.io/Bursary-Bank/
+
 
 ## Screenshots
 
